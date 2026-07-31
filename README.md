@@ -1,5 +1,4 @@
- PORTFOLIO
- 🌐 Personal Portfolio Website
+🌐 Personal Portfolio Website
 
 A modern, responsive personal portfolio website developed using **HTML5** and **CSS3**. This project showcases my profile, technical skills, projects, achievements, and contact information in a clean and professional layout.
 
